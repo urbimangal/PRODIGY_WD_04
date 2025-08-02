@@ -39,11 +39,6 @@ This project was completed as part of **Task 4** of the **Prodigy InfoTech Web D
 
 ---
 
-## 🔗 Live Demo
-
-> 👉 [Click here to view the project live](https://github.com/urbimangal/PRODIGY_WD_04)
-
----
 
 ## 📌 How to Use
 
